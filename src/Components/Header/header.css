@@ -1,0 +1,23 @@
+.header{
+    background-color: white;
+    border-bottom: 1px solid lightgray;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    padding: 20px 20px;
+}
+
+
+
+.header__logoImage{
+    width: 130px;
+    margin-top: 6px;
+}
+
+.header__icons{
+    color: black;
+}
+
+.header__button {
+    margin-top: 6px;
+}

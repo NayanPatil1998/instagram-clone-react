@@ -1,0 +1,12 @@
+.postform__container{
+    width: 400px auto;
+    object-fit: contain;
+    margin-right: 80px auto;
+}
+.btn{
+    margin: 20px;
+}
+
+.progress{
+    width: 100%;
+}

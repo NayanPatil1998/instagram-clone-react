@@ -1,0 +1,20 @@
+.app{
+    background-color: #fafafa;
+    height: 100vh;
+}
+.app__body{
+    justify-content: center;
+    
+}
+
+.insta__feed
+{
+    padding-left: 30px;
+}
+/* 
+.main___body{
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    align-content: center;
+} */
